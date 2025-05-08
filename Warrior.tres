@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="Unit" load_steps=4 format=3 uid="uid://bfe4rwqef865"]
+
+[ext_resource type="Texture2D" uid="uid://kxdudywdtaue" path="res://Images/Shield.png" id="1_3fpkv"]
+[ext_resource type="Script" uid="uid://drwbqjh7rl2jt" path="res://Unit.gd" id="1_yd4nr"]
+[ext_resource type="Resource" uid="uid://ddhqd7if052rv" path="res://Attacks/Punch.tres" id="2_5ki63"]
+
+[resource]
+script = ExtResource("1_yd4nr")
+icon = ExtResource("1_3fpkv")
+unitMaxNum = 30
+unitNum = 30
+strength = 3
+defense = 3
+moves = Array[Resource]([ExtResource("2_5ki63")])
+xcord = 0
+ycord = 0
+metadata/_custom_type_script = "uid://drwbqjh7rl2jt"

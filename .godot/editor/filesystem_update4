@@ -1,0 +1,8 @@
+res://main.tscn
+res://Unit.gd
+res://Warrior.tres
+res://Field.tscn
+res://field.gd
+res://Attack.gd
+res://main.gd
+res://Attacks/Punch.tres

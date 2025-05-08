@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Attack" load_steps=2 format=3 uid="uid://ddhqd7if052rv"]
+
+[ext_resource type="Script" uid="uid://cvqw742iqn7oo" path="res://Attack.gd" id="1_mmehv"]
+
+[resource]
+script = ExtResource("1_mmehv")
+atkName = ""
+minRange = 1
+maxRange = 2
+metadata/_custom_type_script = "uid://cvqw742iqn7oo"

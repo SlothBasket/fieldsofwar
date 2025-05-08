@@ -1,0 +1,15 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746515967
+Attack.gd::GDScript/GDScript::6281231612367944082::1746515845::0::1::::Attack<>Resource<><>0<>0<><>::
+field.gd::GDScript/GDScript::3476414923283542492::1746515701::0::1::::<>PanelContainer<><>0<>0<><>::
+Field.tscn::PackedScene/PackedScene::7630051532179521913::1746515846::0::1::::<><><>0<>0<><>::uid://bpsabtbdvd1ky::::res://field.gd
+grid.gd::GDScript/GDScript::2296985695351026319::1745704746::0::1::::<>GridContainer<><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::7967196352978020040::1745702558::1745702574::1::::<><><>0<>0<>1edb1998aca6304c16c682b3f44f1037<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+main.gd::GDScript/GDScript::5178391984255674348::1746515701::0::1::::<>Node2D<><>0<>0<><>::
+main.tscn::PackedScene/PackedScene::6416666616608231602::1746515846::0::1::::<><><>0<>0<><>::uid://cf1pmhqgb30n5::::res://main.gd<>uid://7yxav0ivxlet::::res://grid.gd
+Unit.gd::GDScript/GDScript::8397978478211310937::1746514857::0::1::::Unit<>Resource<><>0<>0<><>::
+Warrior.tres::Resource/Unit::80806316017836584::1746515967::0::1::::<><><>0<>0<><>::uid://kxdudywdtaue::::res://Images/Shield.png<>uid://drwbqjh7rl2jt::::res://Unit.gd
+::res://Attacks/::1746515959
+Punch.tres::Resource/Attack::7385257748905233251::1746515945::0::1::::<><><>0<>0<><>::uid://cvqw742iqn7oo::::res://Attack.gd
+::res://Images/::1746515967
+Shield.png::CompressedTexture2D::749587187229788212::1745707473::1746515967::1::::<><><>0<>0<>8caa6e3621a6d54388903f8a06a22b06<>res://.godot/imported/Shield.png-6707e7f9f92dc3296bbac3f3c45df31d.ctex::
