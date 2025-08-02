@@ -13,3 +13,4 @@ data_*/
 # System-specific
 .DS_Store
 Thumbs.db
+".godot/" 
